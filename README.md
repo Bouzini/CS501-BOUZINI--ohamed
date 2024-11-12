@@ -4,15 +4,49 @@ The repository provides an in-depth understanding of Deep Learning. It contains 
 # Author
 ## Mohamed-Bouzini
 You can contact the author at: bouzini.10@gmail.com
-## Course Overview
-CS501 covers foundational and advanced concepts of Deep Learning, including:
-- Introduction to Python for Deep Learning
-- Neural Networks and Backpropagation
-- Convolutional Neural Networks (CNNs)
-- Recurrent Neural Networks (RNNs) and LSTM
+# Instructor's Information
+- Name : Dr Saad Laouadi 
+- GitHub Repository Link : https://github.com/dr-saad-la/CS501-Deep-Learning-Complete-Course.git
+- Email :  dr.saad.laouadi@gmail.com
+# CS501: Advanced Deep Learning
+
+## Overview
+Advanced course covering theoretical and practical aspects of deep learning.
+
+## Topics
+- Python for Deep Learning
+- Neural Networks & Backpropagation
+- CNNs, RNNs, LSTM
 - Deep Reinforcement Learning
-- Practical applications using popular libraries such as TensorFlow and PyTorch
-The Python crash course is designed to help students:
-- Master basic to advanced Python syntax
-- Understand Python’s data structures and libraries
-- Develop a strong foundation for implementing deep learning models
+- TensorFlow & PyTorch applications
+
+## Objectives
+1. Master deep learning theory
+2. Develop Python skills for ML
+3. Explore cutting-edge techniques
+4. Apply to real-world problems
+
+## Python Module
+- Basic to advanced syntax
+- Data structures & libraries
+- Foundation for DL implementation
+
+## Structure
+- Lectures: Theory
+- Labs: Implementation
+- Projects: Real-world application
+
+## Prerequisites
+- Basic programming
+- Linear algebra & calculus
+- Fundamental ML concepts
+## Textbooks
+
+1. Goodfellow, I., et al. "Deep Learning." MIT Press, 2016.
+2. Chollet, F. "Deep Learning with Python." Manning Publications, 2021.
+
+## Additional Resources
+
+- [Course GitHub Repository](https://github.com/university/CS501-DeepLearning)
+- [TensorFlow Documentation](https://www.tensorflow.org/docs)
+- [PyTorch Tutorials](https://pytorch.org/tutorials/)
