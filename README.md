@@ -50,3 +50,6 @@ Advanced course covering theoretical and practical aspects of deep learning.
 - [Course GitHub Repository](https://github.com/university/CS501-DeepLearning)
 - [TensorFlow Documentation](https://www.tensorflow.org/docs)
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
+
+git clone https://github.com/dr-saad-la/CS501-Deep-Learning-Complete-Course.git
+cd CS501-Deep-Learning-Complete-Course
